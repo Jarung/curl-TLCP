@@ -18,6 +18,8 @@ libcurl is the library curl is using to do its job. It is readily available to
 be used by your software. Read [the libcurl
 manpage](https://curl.se/libcurl/c/libcurl.html) to learn how.
 
+【Based on TASSL, the TLCP protocol is adapted.】
+
 ## Open Source
 
 curl is Open Source and is distributed under an MIT-like
